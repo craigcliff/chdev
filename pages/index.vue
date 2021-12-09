@@ -1,5 +1,5 @@
 <template>
-  <h1>CRAIG HECTORS SITE</h1>
+  <h1>CRAIG HECTORS PLAYGROUND SITE</h1>
 </template>
 
 <script>
